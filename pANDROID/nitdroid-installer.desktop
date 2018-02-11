@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=NITDroid Uninstaller
+Comment=Partitions a microSD and installs nitdroid on it
+Exec=osso-xterm "sudo nitdroid-uninstaller"
+Icon=nitdroid-installer
+Terminal=true
+Type=Application

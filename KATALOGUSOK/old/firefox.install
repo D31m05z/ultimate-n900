@@ -1,0 +1,10 @@
+[install]
+repo_deb_3 = deb http://moff.mozilla.com/latest/maemo/multi chinook release
+catalogues = fennec
+package  = fennec
+
+[fennec]
+name = Mozilla multi Catalog
+uri = http://moff.mozilla.com/latest/maemo/multi/
+dist = chinook
+components = release

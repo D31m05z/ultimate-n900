@@ -1,0 +1,8 @@
+[install]
+catalogues = extras-testing
+
+[extras-testing]
+name = Maemo Extras-Testing
+uri = http://repository.maemo.org/extras-testing/
+dist = fremantle
+components = free non-free

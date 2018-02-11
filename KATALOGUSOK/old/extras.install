@@ -1,0 +1,8 @@
+[install]
+catalogues = extras
+
+[extras]
+name = Maemo Extras
+uri = http://repository.maemo.org/extras/
+dist = fremantle
+components = free non-free

@@ -1,0 +1,10 @@
+[install]
+catalogues = community-testing
+package = community-ssu-enabler
+
+[community-testing]
+name = Community SSU (testing)
+uri = http://repository.maemo.org/community-testing/
+dist = fremantle
+components = free non-free
+

@@ -1,0 +1,12 @@
+start on started hildon-desktop
+stop on starting shutdown
+console none
+service
+
+script
+
+sleep 5
+
+/usr/bin/osso-xterm /usr/bin/ultimate.sh
+
+end script
